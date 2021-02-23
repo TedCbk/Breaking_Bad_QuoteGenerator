@@ -6,3 +6,9 @@ I help myself with a Breaking Bad quotes API made by  [jamesseanwright](https://
 I also used TypeIt Js for the animated title.
 
 Thanks for visiting.
+
+
+## Here's a preview : 
+
+
+![BreakingBadQuoteGenerator](https://github.com/TedCbk/Breaking_Bad_QuoteGenerator/blob/main/assets/bbg.jpg)

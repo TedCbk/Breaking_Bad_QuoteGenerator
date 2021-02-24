@@ -20,6 +20,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+img:hover {
+    transition: transform 10s;
+    transform: rotate(360deg);
+}
+
 .title-set img {
     width: 25%;
 }

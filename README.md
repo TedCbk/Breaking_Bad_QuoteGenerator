@@ -7,6 +7,8 @@ I also used TypeIt Js for the animated title.
 
 Thanks for visiting.
 
+See the result [here](https://tedcbk.github.io/Breaking_Bad_QuoteGenerator/).
+
 
 ## Here's a preview : 
 
